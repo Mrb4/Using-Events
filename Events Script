@@ -1,0 +1,8 @@
+---------------------------------------------------Learning how to use events---------------------------------------------------
+
+--function killplayer()
+--print("hello guys")
+
+--end
+
+--game.Workspace.Part.Touched:Connect(killplayer)
